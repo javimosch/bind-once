@@ -1,6 +1,6 @@
 {
   "name": "bind-once",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bind an event handler that will be triggered once, event if the event happen before the binding.",
   "main": "index.js",
   "scripts": {
