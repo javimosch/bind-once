@@ -1,0 +1,24 @@
+{
+  "name": "bind-once",
+  "version": "1.0.0",
+  "description": "Bind an event that may had been triggered in the past, or will be triggered in the future. Once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javimosch/once.git"
+  },
+  "keywords": [
+    "events",
+    "javascript",
+    "once"
+  ],
+  "author": "Javier Leandro Arancibia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javimosch/once/issues"
+  },
+  "homepage": "https://github.com/javimosch/once#readme"
+}
