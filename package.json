@@ -1,6 +1,6 @@
 {
   "name": "bind-once",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bind an event handler that will be triggered once, event if the event happen before the binding.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javimosch/once.git"
+    "url": "https://github.com/javimosch/bind-once.git"
   },
   "keywords": [
     "events",
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/javimosch/once/issues"
   },
-  "homepage": "https://github.com/javimosch/once#readme"
+  "homepage": "https://github.com/javimosch/bind-once#readme"
 }
